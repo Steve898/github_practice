@@ -26,9 +26,9 @@ intinya adalah:
 thank you!
 
 contoh codes:
-'''
+```
 ini contoh codes
-'''
+```
 
 ## Tabel
 
